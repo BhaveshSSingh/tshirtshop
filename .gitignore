@@ -1,0 +1,37 @@
+# Ignore compiled files
+*.o
+*.class
+*.pyc
+*.exe
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+
+# Ignore dependencies and virtual environments
+node_modules/
+venv/
+env/
+
+# Ignore build artifacts and output
+build/
+dist/
+out/
+
+# Ignore configuration files with sensitive information
+config.ini
+secrets.yml
+
+# Ignore database files
+*.db
+*.sqlite
+
+# Ignore backups
+*.bak
+*.backup
