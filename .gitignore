@@ -17,7 +17,8 @@
 # Ignore dependencies and virtual environments
 node_modules/
 venv/
-env/
+.env/
+.env
 
 # Ignore build artifacts and output
 build/
